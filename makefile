@@ -4,7 +4,7 @@
 objects = main.o field.o convert.o
 
 # задача сборки проекта
-exe: $(objects)
+install: $(objects)
 	g++ -o minesGame $(objects)
 	rm $(objects)
 
