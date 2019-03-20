@@ -1,0 +1,11 @@
+* Mines game
+
+Simple console game written in c++
+
+* Compile
+
+To compile this run:
+
+#+BEGIN_SRC bash
+make install
+#+END_SRC
