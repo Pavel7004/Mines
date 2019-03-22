@@ -7,5 +7,5 @@ Simple console game written in c++
 To compile this run:
 
 #+BEGIN_SRC bash
-make install
+make
 #+END_SRC
