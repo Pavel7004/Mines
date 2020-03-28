@@ -7,5 +7,6 @@ Simple console game written in c++
 To compile this run:
 
 #+BEGIN_SRC bash
+./build.sh
 make
 #+END_SRC
