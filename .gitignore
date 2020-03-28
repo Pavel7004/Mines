@@ -2,3 +2,6 @@ CMakeFiles
 *.cmake
 CMakeCache.txt
 Makefile
+.ccls-cache
+TAGS
+compile_commands.json
